@@ -109,9 +109,8 @@ Mobile Apps (Flutter)          ████████████░░░░�
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-sameerakramsameerakram01@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sameerakramsameerakram01@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sameerakrams)
-
+[![Email](https://img.shields.io/badge/Email-sameedevexpert@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sameedevexpert@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameer-akram-52662a28a/)
 </div>
 
 ---
